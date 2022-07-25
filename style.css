@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: orange;
+  color: green;
+  padding: 20px;
+  
+}
+
+picture {
+
+  float: left;
+  
+  
+}
+
+
+description {
+
+  float: right;
+}
